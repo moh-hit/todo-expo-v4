@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "letsdoit",
+    "name": "Today's List",
     "slug": "letsdoit",
+    "description": "A new kind of todo",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +24,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.intellihead.todaylist"
     }
   }
 }
